@@ -1,0 +1,17 @@
+.Table {
+	border-bottom-color: black;
+	border-top-color: black;
+	width: 1000px; 
+	color: #000000;
+	border-right-color: black;
+	font-size: medium;
+	border-left-color: black
+}
+
+#MyTable th {
+	text-align: center;
+}
+
+.subject {
+	width: 80px;
+}
